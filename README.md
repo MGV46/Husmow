@@ -6,14 +6,14 @@ nicolascage@gmail.com\
 micah@gmail.com\
 mclovin@gmail.com\
 frankpalicky@gmail.com\
-joelmiller@gmail.com\
+joelmiller@gmail.com
 
 *password*: 1234\
 ----------------------------------------------------
 # git hub SETUP
 ----------------------------------------------------
-git remote add origin https://github.com/MGV46/Husmow.git\
-git pull\
+git remote add origin https://github.com/MGV46/Husmow.git
+\git pull
 ----------------------------------------------------
 
 # cambiar:
@@ -29,4 +29,4 @@ comentarios subir comentarios\
 IA fotos\
 compartir\
 search\
-metodo de pago si hay tiempo xxdxdxdxdxd\
+metodo de pago si hay tiempo xxdxdxdxdxd
