@@ -1,4 +1,4 @@
-USUARIOS
+# USUARIOS
 ----------------------------------------------------
 dindjarin@gmail.com
 pedropascal@gmail.com
@@ -10,13 +10,14 @@ joelmiller@gmail.com
 
 password: 1234
 ----------------------------------------------------
-git hub SETUP
+# git hub SETUP
 ----------------------------------------------------
 git remote add origin https://github.com/MGV46/Husmow.git
 git pull
 ----------------------------------------------------
 
-cambiar:
+# cambiar:
+----------------------------------------------------
 pagina de bienvenida
 docs que se vean
 orden de los posts
