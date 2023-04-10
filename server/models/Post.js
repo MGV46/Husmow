@@ -19,7 +19,7 @@ const postSchema = mongoose.Schema(
     picturePath: String,
     videoPath: String,
     audioPath: String,
-    attatchmentPath: String,
+    attachmentPath: String,
     userPicturePath: String,
     likes: {
       type: Map,

@@ -306,7 +306,7 @@ const MyPostWidget = ({ picturePath }) => {
             color={mediumMain}
             sx={{ "&:hover": { cursor: "pointer", color: medium } }}
           >
-            Attatchment
+            Attachment
           </Typography>
         </FlexBetween>
 
