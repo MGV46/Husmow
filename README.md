@@ -3,7 +3,7 @@
 dindjarin@gmail.com\
 pedropascal@gmail.com\
 nicolascage@gmail.com\
-micah@gmail.com\
+micahsloat@gmail.com\
 mclovin@gmail.com\
 frankpalicky@gmail.com\
 joelmiller@gmail.com
