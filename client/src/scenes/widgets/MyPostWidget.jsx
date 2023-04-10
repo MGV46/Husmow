@@ -6,7 +6,7 @@ import {
   MicOutlined,
   MoreHorizOutlined,
 } from "@mui/icons-material";
-import MusicVideoIcon from '@mui/icons-material/MusicVideo';
+import OndemandVideoIcon from '@mui/icons-material/OndemandVideo';
 import {
   Box,
   Divider,
@@ -290,7 +290,7 @@ const MyPostWidget = ({ picturePath }) => {
         </FlexBetween>
         
         <FlexBetween gap="0.25rem" onClick={() => setIsVideo(!isVideo)}>
-          <MusicVideoIcon sx={{ color: mediumMain }} />
+          <OndemandVideoIcon sx={{ color: mediumMain }} />
           <Typography
             color={mediumMain}
             sx={{ "&:hover": { cursor: "pointer", color: medium } }}
