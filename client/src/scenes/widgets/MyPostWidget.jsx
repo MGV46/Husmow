@@ -308,7 +308,6 @@ const MyPostWidget = ({ picturePath }) => {
             Audio
           </Typography>
         </FlexBetween>
-
         <FlexBetween gap="0.25rem" onClick={() => setIsAttachment(!isAttachment)}>
           <AttachFileOutlined sx={{ color: mediumMain }} />
           <Typography
@@ -318,8 +317,6 @@ const MyPostWidget = ({ picturePath }) => {
             Attachment
           </Typography>
         </FlexBetween>
-
-
         {isNonMobileScreens ? (
           <>
 
