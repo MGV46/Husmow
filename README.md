@@ -18,8 +18,7 @@ git remote add origin https://github.com/MGV46/Husmow.git
 
 # CAMBIAR:
 ---------------------------------------------------
-pagina de bienvenida\
-docs que se vean\
+docs que se vean\ yo digo q ya no documentos (Big c)
 orden de los posts\
 perfil de los perros dentro de los perfiles de usuarios //facil\
 https://www.youtube.com/watch?v=HggSXt1Hzfk&t=620s  /// chat\
