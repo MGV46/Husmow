@@ -42,6 +42,8 @@ search\
 
 https://www.youtube.com/watch?v=HggSXt1Hzfk&t=620s  /// chat\
 
+verificacion correos 2A
+
 location /post\
 
 friends request error\
