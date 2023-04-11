@@ -18,6 +18,7 @@ git remote add origin https://github.com/MGV46/Husmow.git
 
 # CAMBIAR:
 ---------------------------------------------------
+pag bienvenida
 Navbar, los contenedores laterales fijos
 docs que se vean\ yo digo q ya no documentos (Big c)
 orden de los posts\
