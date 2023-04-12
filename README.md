@@ -22,6 +22,8 @@ Navbar, los contenedores laterales fijos
 
 otro bug, subir posts desde perfil
 
+otro bug, cambiar datos del perfil del usario
+
 orden de los posts\
 
 
