@@ -18,7 +18,7 @@ git remote add origin https://github.com/MGV46/Husmow.git
 
 # CAMBIAR:
 ---------------------------------------------------
-Navbar, los contenedores laterales fijos
+Navbar, los contenedores laterales fijos //////
 
 otro bug, subir posts desde perfil
 
