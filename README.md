@@ -52,7 +52,7 @@ friends request error\
 
 comentarios subir comentarios\
 
-IA fotos\
+IA fotos\ Din
 
 
 
