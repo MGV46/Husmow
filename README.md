@@ -40,7 +40,7 @@ docs que se vean\ yo digo q ya no documentos (Big c)
 compartir\
 
 
-search\
+search\/
 
 https://www.youtube.com/watch?v=HggSXt1Hzfk&t=620s  /// chat\
 
